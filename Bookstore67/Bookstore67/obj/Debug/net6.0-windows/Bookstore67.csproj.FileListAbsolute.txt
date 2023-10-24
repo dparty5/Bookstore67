@@ -43,3 +43,5 @@ C:\Users\dpaty\OneDrive\Desktop\bookstore67\Bookstore67\Bookstore67\obj\Debug\ne
 C:\Users\dpaty\OneDrive\Desktop\bookstore67\Bookstore67\Bookstore67\obj\Debug\net6.0-windows\Bookstore67.csproj.CopyComplete
 C:\Users\dpaty\OneDrive\Desktop\bookstore67\Bookstore67\Bookstore67\obj\Debug\net6.0-windows\store.g.cs
 C:\Users\dpaty\OneDrive\Desktop\bookstore67\Bookstore67\Bookstore67\obj\Debug\net6.0-windows\store.baml
+C:\Users\dpaty\OneDrive\Desktop\Bookstore67\Bookstore67\Bookstore67\obj\Debug\net6.0-windows\Windowreference.g.cs
+C:\Users\dpaty\OneDrive\Desktop\Bookstore67\Bookstore67\Bookstore67\obj\Debug\net6.0-windows\Windowreference.baml

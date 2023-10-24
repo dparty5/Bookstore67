@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gAtIuKg2wqRFuU2xy1Ug/xDgwqAZ+qa8NuNlNuGjpNyKI+pigQwXjiP/t6G2VaoCOK6Vj0JposBpJpXC/K11fg==",
+  "dgSpecHash": "tKaMtlFCe6wJcrYRMjWd1w760q79vDcolDWoL0BH5rtO1lASqinE1g0/XacBw8fpmpPzmSpLmLay0uJtx1flnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dpaty\\OneDrive\\Desktop\\bookstore67\\Bookstore67\\Bookstore67\\Bookstore67.csproj",
+  "projectFilePath": "C:\\Users\\dpaty\\OneDrive\\Desktop\\Bookstore67\\Bookstore67\\Bookstore67\\Bookstore67.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dpaty\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\dpaty\\.nuget\\packages\\k4os.compression.lz4\\1.3.5\\k4os.compression.lz4.1.3.5.nupkg.sha512",

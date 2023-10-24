@@ -78,8 +78,15 @@ namespace Bookstore67
 
         }
 
+        private void ButtonReference_Click(object sender, RoutedEventArgs e)
+        {
+            Windowreference frm = new Windowreference();
+            frm.Show();
+        }
 
+        private void ComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
 
-
+        }
     }
 }

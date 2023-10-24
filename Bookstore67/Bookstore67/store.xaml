@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Bookstore67"
         mc:Ignorable="d"
-        Title="store" Height="450" Width="800">
+        Title="store" Height="478" Width="800">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition/>
@@ -18,6 +18,11 @@
         <Button Content="Найти" HorizontalAlignment="Left" Margin="636,17,0,0" VerticalAlignment="Top" Height="25" Width="65" FontFamily="Bahnschrift Light SemiCondensed" FontSize="18"/>
         <Button Content="Обновить" HorizontalAlignment="Left" Margin="706,17,0,0" VerticalAlignment="Top" Height="25" Width="64" FontFamily="Bahnschrift Light SemiCondensed" FontSize="16" Click="Button_Click"/>
         <DataGrid x:Name="dgv" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="103,48,10,10"  SelectionChanged="DataGrid_SelectionChanged"/>
+        <Button x:Name="ButtonReference" Content="Справка" HorizontalAlignment="Left" Margin="49,401,0,0" VerticalAlignment="Top" FontFamily="Bahnschrift Light Condensed" FontSize="16" Click="ButtonReference_Click"/>
+        <Label Content="Сортировать по" HorizontalAlignment="Left" Margin="10,54,0,0" VerticalAlignment="Top" FontFamily="Bahnschrift Light SemiCondensed" Foreground="White"/>
+        <ComboBox HorizontalAlignment="Left" Margin="10,83,0,0" VerticalAlignment="Top" Width="90" Height="25" SelectionChanged="ComboBox_SelectionChanged"/>
+        <Button Content="Корзина" HorizontalAlignment="Left" Margin="15,152,0,0" VerticalAlignment="Top" Height="30" Width="83" Foreground="Black" FontFamily="Bahnschrift Light SemiCondensed"/>
+        <Button Content="История" HorizontalAlignment="Left" Margin="15,197,0,0" VerticalAlignment="Top" Height="29" Width="83" FontFamily="Bahnschrift Light SemiCondensed"/>
 
     </Grid>
 

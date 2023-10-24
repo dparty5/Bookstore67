@@ -1,0 +1,20 @@
+﻿<Window x:Class="Bookstore67.Windowreference"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bookstore67"
+        mc:Ignorable="d"
+        Title="Windowreference" Height="324" Width="533">
+    <Grid x:Name="Windowreference1">
+        <Grid.Background>
+            <ImageBrush ImageSource="/2.jpg"/>
+        </Grid.Background>
+        <Label Content="Справочные материалы " HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontFamily="Bahnschrift Light SemiCondensed" FontSize="24" Foreground="White"/>
+        <Button Content="Справка для директора" HorizontalAlignment="Left" Margin="29,63,0,0" VerticalAlignment="Top" Height="60" Width="142" FontFamily="Bahnschrift Light Condensed" Click="Button_Click"/>
+        <Button Content="Справка для сотрудника" HorizontalAlignment="Center" VerticalAlignment="Top" Height="60" Width="142" Margin="0,63,0,0" FontFamily="Bahnschrift Light Condensed" Click="Button_Click_1"/>
+        <Button Content="Справка для клиента" HorizontalAlignment="Left" Margin="354,63,0,0" VerticalAlignment="Top" Height="60" Width="139" FontFamily="Bahnschrift Light Condensed" Click="Button_Click_2"/>
+        <Button Content="Для клиета" HorizontalAlignment="Center" Margin="0,154,0,0" VerticalAlignment="Top" Height="52" Width="142" FontFamily="Bahnschrift Light SemiCondensed" Click="Button_Click_3"/>
+
+    </Grid>
+</Window>

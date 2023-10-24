@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dpaty\\OneDrive\\Desktop\\bookstore67\\Bookstore67\\Bookstore67\\Bookstore67.csproj": {}
+    "C:\\Users\\dpaty\\OneDrive\\Desktop\\Bookstore67\\Bookstore67\\Bookstore67\\Bookstore67.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dpaty\\OneDrive\\Desktop\\bookstore67\\Bookstore67\\Bookstore67\\Bookstore67.csproj": {
+    "C:\\Users\\dpaty\\OneDrive\\Desktop\\Bookstore67\\Bookstore67\\Bookstore67\\Bookstore67.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dpaty\\OneDrive\\Desktop\\bookstore67\\Bookstore67\\Bookstore67\\Bookstore67.csproj",
+        "projectUniqueName": "C:\\Users\\dpaty\\OneDrive\\Desktop\\Bookstore67\\Bookstore67\\Bookstore67\\Bookstore67.csproj",
         "projectName": "Bookstore67",
-        "projectPath": "C:\\Users\\dpaty\\OneDrive\\Desktop\\bookstore67\\Bookstore67\\Bookstore67\\Bookstore67.csproj",
+        "projectPath": "C:\\Users\\dpaty\\OneDrive\\Desktop\\Bookstore67\\Bookstore67\\Bookstore67\\Bookstore67.csproj",
         "packagesPath": "C:\\Users\\dpaty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dpaty\\OneDrive\\Desktop\\bookstore67\\Bookstore67\\Bookstore67\\obj\\",
+        "outputPath": "C:\\Users\\dpaty\\OneDrive\\Desktop\\Bookstore67\\Bookstore67\\Bookstore67\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

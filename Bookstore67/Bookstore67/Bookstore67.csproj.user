@@ -16,6 +16,9 @@
     <Compile Update="store.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Windowreference.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Page Update="authorization.xaml">
@@ -28,6 +31,9 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="store.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windowreference.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
