@@ -1,0 +1,24 @@
+﻿<Window x:Class="Bookstore67.store"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bookstore67"
+        mc:Ignorable="d"
+        Title="store" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="/2.jpg"/>
+        </Grid.Background>
+        <Label Content="BookStore67" HorizontalAlignment="Left" Margin="0,10,0,0" VerticalAlignment="Top" Foreground="White" FontFamily="Bahnschrift Light SemiCondensed" FontSize="24"/>
+        <TextBox HorizontalAlignment="Left" Margin="133,17,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="487" Height="25"/>
+        <Button Content="Найти" HorizontalAlignment="Left" Margin="636,17,0,0" VerticalAlignment="Top" Height="25" Width="65" FontFamily="Bahnschrift Light SemiCondensed" FontSize="18"/>
+        <Button Content="Обновить" HorizontalAlignment="Left" Margin="706,17,0,0" VerticalAlignment="Top" Height="25" Width="64" FontFamily="Bahnschrift Light SemiCondensed" FontSize="16" Click="Button_Click"/>
+        <DataGrid x:Name="dgv" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="103,48,10,10"  SelectionChanged="DataGrid_SelectionChanged"/>
+
+    </Grid>
+
+</Window>
