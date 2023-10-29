@@ -88,5 +88,17 @@ namespace Bookstore67
         {
 
         }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            basket frm = new basket();
+            frm.Show();
+        }
+
+        private void Button_Click_2(object sender, RoutedEventArgs e)
+        {
+            history frm = new history();
+            frm.Show();
+        }
     }
 }

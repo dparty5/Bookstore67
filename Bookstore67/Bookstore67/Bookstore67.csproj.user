@@ -10,6 +10,12 @@
     <Compile Update="authorization.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="basket.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="history.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Registration.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -22,6 +28,12 @@
   </ItemGroup>
   <ItemGroup>
     <Page Update="authorization.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="basket.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="history.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="MainWindow.xaml">

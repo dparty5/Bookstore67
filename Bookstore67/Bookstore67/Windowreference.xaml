@@ -13,7 +13,7 @@
         <Label Content="Справочные материалы " HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontFamily="Bahnschrift Light SemiCondensed" FontSize="24" Foreground="White"/>
         <Button Content="Справка для директора" HorizontalAlignment="Left" Margin="29,63,0,0" VerticalAlignment="Top" Height="60" Width="142" FontFamily="Bahnschrift Light Condensed" Click="Button_Click"/>
         <Button Content="Справка для сотрудника" HorizontalAlignment="Center" VerticalAlignment="Top" Height="60" Width="142" Margin="0,63,0,0" FontFamily="Bahnschrift Light Condensed" Click="Button_Click_1"/>
-        <Button Content="Справка для клиента" HorizontalAlignment="Left" Margin="354,63,0,0" VerticalAlignment="Top" Height="60" Width="139" FontFamily="Bahnschrift Light Condensed" Click="Button_Click_2"/>
+        <Button Content="Справка для гостя" HorizontalAlignment="Left" Margin="354,63,0,0" VerticalAlignment="Top" Height="60" Width="139" FontFamily="Bahnschrift Light Condensed" Click="Button_Click_2"/>
         <Button Content="Для клиета" HorizontalAlignment="Center" Margin="0,154,0,0" VerticalAlignment="Top" Height="52" Width="142" FontFamily="Bahnschrift Light SemiCondensed" Click="Button_Click_3"/>
 
     </Grid>
